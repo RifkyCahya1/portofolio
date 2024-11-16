@@ -20,7 +20,7 @@
     <!-- Styles / Scripts -->
 
     @if (env('APP_ENV') === 'production')
-        <link rel="stylesheet" href="{{ asset('build/assets/app.css') }}">
+        <link rel="stylesheet" href="{{ asset('build/assets/app-CqRWb9P8.css') }}">
     @else
         @vite('resources/css/app.css')
     @endif
