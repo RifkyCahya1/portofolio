@@ -4,7 +4,7 @@
 
 <div class="bg-white w-full">
   <!-- #1 -->
-  <div class="container mx-auto py-12 px-8 flex flex-col md:flex-row items-center justify-between delay-[300ms] duration-[600ms] taos:translate-y-[200px] taos:opacity-0" data-taos-offset="300">
+  <div class="container mx-auto py-12 px-8 flex flex-col md:flex-row items-center justify-between">
     <article class="text-black text-pretty leading-loose mb-3 md:w-1/2">
       <h1 class="font-semibold text-2xl">Welcome!</h1>
       <h3 class="font-black text-4xl text-balance">I Am Web Developer</h3>
