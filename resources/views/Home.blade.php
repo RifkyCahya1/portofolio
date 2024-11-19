@@ -4,7 +4,7 @@
 
 <div class="bg-white w-full">
   <!-- #1 -->
-  <div class="container mx-auto py-12 px-8 flex flex-col md:flex-row items-center justify-between">
+  <div class="container mx-auto py-12 px-8 flex flex-col md:flex-row items-center justify-between delay-[300ms] duration-[600ms] taos:translate-y-[200px] taos:opacity-0" data-taos-offset="300">
     <article class="text-black text-pretty leading-loose mb-3 md:w-1/2">
       <h1 class="font-semibold text-2xl">Welcome!</h1>
       <h3 class="font-black text-4xl text-balance">I Am Web Developer</h3>
@@ -58,22 +58,6 @@
               </div>
             </a>
           </div>
-
-          <div class="swiper-slide">
-            <a href="Dicoding-1">
-              <div class="max-w-xs rounded-lg p-2">
-                <img class="w-full h-52 object-cover transform transition-transform duration-300 hover:scale-105 rounded-lg" src="./img/Dicoding.jpeg" alt="Portofolio">
-                <h2 class="text-lg font-bold text-white mt-3 text-pretty">Pelatihan Dicoding Pemrograman web</h2>
-              </div>
-            </a>
-          </div>
-
-          <!-- <div class="swiper-slide">
-            <a href="" class="max-w-xs rounded-lg p-2">
-              <img class="w-full h-52 object-cover transform transition-transform duration-300 hover:scale-105 rounded-lg" src="https://via.placeholder.com/300x200" alt="Gambar 3">
-              <h2 class="text-lg font-bold text-white mt-3 text-pretty">Judul Card 3</h2>
-            </a>
-          </div> -->
         </div>
 
         <!-- Navigation Buttons -->
@@ -88,8 +72,10 @@
 
         <div class="card bg-[#FFFFFF] w-full md:w-[270px] h-[150] shadow-xl rounded-xl flex flex-col mt-10 md:mt-20 ease-in-out duration-300 hover:scale-105 hover:-translate-y-5">
           <div class="card-body flex flex-col justify-center text-[#052451] text-pretty p-5">
-            <h2 class="card-title font-black text-2xl text-balance">About Me</h2>
-            <p class="text-balance font-medium mt-2">Sedikit cerita tentang siapa saya dan apa yang saya lakukan </p>
+            <a href="About">
+              <h2 class="card-title font-black text-2xl text-balance">About Me</h2>
+              <p class="text-balance font-medium mt-2">Sedikit cerita tentang siapa saya dan apa yang saya lakukan </p>
+            </a>
           </div>
         </div>
         <img class="w-[300px] md:w-[500px] box-border rounded-xl object-cover shadow-xl transform transition-transform duration-300 hover:scale-105" src="./img/DSC_9381.JPG" alt="Foto Rifky Cahya Putra">
