@@ -17,7 +17,7 @@
         <div class="container mx-auto py-12 px-8 flex flex-col md:flex-row items-center justify-around gap-8">
             <div class="max-w-md mx-auto mt-6">
                 <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img src="https://via.placeholder.com/600x300" alt="Gambar Card" class="w-full h-48 sm:h-64 md:h-72 object-cover">
+                    <img src="./img/Dicoding.jpeg" alt="Gambar Card" class="w-full h-48 sm:h-64 md:h-72 object-cover">
                     <div class="p-4">
                         <h2 class="text-lg font-bold text-gray-800 sm:text-xl md:text-2xl">Judul Card</h2>
                         <p class="text-gray-500 text-sm sm:text-base mt-2">Tanggal: 19 November 2024</p>
@@ -27,7 +27,7 @@
 
             <div class="max-w-md mx-auto mt-6">
                 <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img src="https://via.placeholder.com/600x300" alt="Gambar Card" class="w-full h-48 sm:h-64 md:h-72 object-cover">
+                    <img src="./img/Dicoding.jpeg" alt="Gambar Card" class="w-full h-48 sm:h-64 md:h-72 object-cover">
                     <div class="p-4">
                         <h2 class="text-lg font-bold text-gray-800 sm:text-xl md:text-2xl">Judul Card</h2>
                         <p class="text-gray-500 text-sm sm:text-base mt-2">Tanggal: 19 November 2024</p>
@@ -37,7 +37,7 @@
 
             <div class="max-w-md mx-auto mt-6">
                 <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img src="https://via.placeholder.com/600x300" alt="Gambar Card" class="w-full h-48 sm:h-64 md:h-72 object-cover">
+                    <img src="./img/Dicoding.jpeg" alt="Gambar Card" class="w-full h-48 sm:h-64 md:h-72 object-cover">
                     <div class="p-4">
                         <h2 class="text-lg font-bold text-gray-800 sm:text-xl md:text-2xl">Judul Card</h2>
                         <p class="text-gray-500 text-sm sm:text-base mt-2">Tanggal: 19 November 2024</p>
@@ -47,7 +47,7 @@
 
             <div class="max-w-md mx-auto mt-6">
                 <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img src="https://via.placeholder.com/600x300" alt="Gambar Card" class="w-full h-48 sm:h-64 md:h-72 object-cover">
+                    <img src="./img/Dicoding.jpeg" alt="Gambar Card" class="w-full h-48 sm:h-64 md:h-72 object-cover">
                     <div class="p-4">
                         <h2 class="text-lg font-bold text-gray-800 sm:text-xl md:text-2xl">Judul Card</h2>
                         <p class="text-gray-500 text-sm sm:text-base mt-2">Tanggal: 19 November 2024</p>

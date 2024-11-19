@@ -16,7 +16,7 @@
         <a href="Portofolio" class="{{ Request::is('Portofolio') ? 'text-[#CB0001] font-bold  border-b-2 border-[#CB0001]' : 'text-[#575757] font-bold hover:text-[#CB0001] transition duration-300' }}">Portfolio</a>
       </li>
       <li>
-        <a href="Portofolio" class="{{ Request::is('Portofolio') ? 'text-[#CB0001] font-bold  border-b-2 border-[#CB0001]' : 'text-[#575757] font-bold hover:text-[#CB0001] transition duration-300' }}">Course</a>
+        <a href="Course" class="{{ Request::is('Course') ? 'text-[#CB0001] font-bold  border-b-2 border-[#CB0001]' : 'text-[#575757] font-bold hover:text-[#CB0001] transition duration-300' }}">Course</a>
       </li>
     </ul>
   </div>

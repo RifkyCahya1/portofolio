@@ -17,4 +17,8 @@ class HomeController extends Controller
     public function portofolio(){
         return view('Portofolio');
     }
+
+    public function Course(){
+        return view('Course');
+    }
 }
