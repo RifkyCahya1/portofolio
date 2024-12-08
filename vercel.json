@@ -1,0 +1,46 @@
+{
+    "version": 2,
+    "framework": null,
+    "functions": {
+        "api/index.php": { "runtime": "vercel-php@0.7.3" }
+    },
+    "routes": [
+        {
+            "src": "/build/(.*)",
+            "dest": "public/build/"
+        },
+        {
+            "src": "/img/(.*)",
+            "dest": "public/img/"
+        },
+        {
+            "src": "/js/(.*)",
+            "dest": "public/js/"
+        },
+        {
+            "src": "/pdf/(.*)",
+            "dest": "public/pdf/"
+        },
+        {
+            "src": "/(.*)",
+            "dest": "/api/index.php"
+        }
+    ],
+    "env": {
+        "APP_ENV": "production",
+        "APP_DEBUG": "true",
+        "APP_URL": "https://portofolio-rifkycahya.vercel.app/",
+        "APP_KEY": "base64:5L2jwCX0CdOe8baFKkZHRqDC2M52Eev3WuTLXUofMr0=",
+        "APP_CONFIG_CACHE": "/tmp/config.php",
+        "APP_EVENTS_CACHE": "/tmp/events.php",
+        "APP_PACKAGES_CACHE": "/tmp/packages.php",
+        "APP_ROUTES_CACHE": "/tmp/routes.php",
+        "APP_SERVICES_CACHE": "/tmp/services.php",
+        "VIEW_COMPILED_PATH": "/tmp",
+
+        "CACHE_DRIVER": "array",
+        "LOG_CHANNEL": "stderr",
+        "SESSION_DRIVER": "array"
+    },
+    "outputDirectory": "public"
+}
